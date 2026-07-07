@@ -1,6 +1,6 @@
 # Utvecklingsmiljö för PHP/MySQL
 
-En utvecklingsmiljö för PHP med MySQL och phpMyAdmin. Se [Git-guide på svenska](https://github.com/everydaydesign/github-guide/blob/main/docs/GUIDE_GIT_SV.md) för att komma igång med Git.
+En utvecklingsmiljö för PHP med MySQL och phpMyAdmin. Se [Git-guide på svenska](https://github.com/everydaydesign/git-guide/blob/main/docs/GUIDE_GIT_SV.md) för att komma igång med Git.
 
 ---
 
