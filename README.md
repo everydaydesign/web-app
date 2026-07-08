@@ -1,4 +1,4 @@
-# Utvecklingsmiljö för PHP/MySQL
+# Utvecklingsmiljö
 
 En utvecklingsmiljö för PHP med MySQL och phpMyAdmin. Se [Git-guide på svenska](https://everydaydesign.github.io/git-guide/languages/sv/) för att komma igång med Git.
 
