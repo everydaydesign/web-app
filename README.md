@@ -115,3 +115,5 @@ Använd dessa uppgifter för att ansluta till databasen:
 | Sidan laddas inte | Kolla att du öppnar rätt port (3000) |
 | Databasfel | Kontrollera att MySQL hunnit starta (vänta 30 sek) |
 | Ändringarna syns inte | Ladda om sidan (Cmd+R / Ctrl+R) |
+
+<!-- everydaydesign · webdesign course -->
